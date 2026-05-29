@@ -1,0 +1,2 @@
+Las APIs son importantes porque permiten la comunicación entre diferentes sistemas; en las comunidades facilitan el intercambio de información de forma organizada. Permiten enviar reportes, alertas o mensajes automáticamente, esto ayuda a mejorar la respuesta ante problemas.
+También hacen que las aplicaciones sean mas útiles y dinámicas, con APIs se puede conectar información en tiempo real, esto fortalece la participación ciudadana y mejora la gestión de datos en plataformas digitales.

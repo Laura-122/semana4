@@ -1,0 +1,13 @@
+La ruta POST /reporte permite recibir información enviada por el usuario desde el cliente al servidor.
+
+Esta ruta toma los datos enviados en formato JSON y los procesa dentro de la aplicación.
+
+En este caso, el servidor recibe un mensaje y lo devuelve como respuesta indicando que fue recibido.
+
+Esta ruta sirve para registrar información como reportes, sugerencias o mensajes.
+
+En una aplicación comunitaria podría utilizarse para enviar alertas o problemas que necesiten atención.
+
+Las APIs permiten este tipo de comunicación entre sistemas de forma organizada.
+
+Esto facilita la interacción entre usuarios y plataformas digitales
