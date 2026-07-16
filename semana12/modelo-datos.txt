@@ -1,0 +1,18 @@
+Modelo de datos
+Entidad: causa:
+
+id: Identificar unico de la causa.
+titulo: Nombre o titulo de la causa.
+descripcion: Explicacion de la causa.
+fecha: Fecha en la que fue creada.
+
+La entidad Causa sirve para almacenar la informacion principal de cada peticion creada por un ciudadano.
+
+Entidad:. apoyo
+
+id: Identificar unico del apoyo.
+causa_id: Identifica la causa a la que pertenece el apoyo.
+nombre: Nombre de la persona que apoya la causa.
+fecha: Fecha en la que se registro el apoyo.
+
+La entidad Apoyo sirve para registrar las personas que apoyan una causa y relacionarlas con la peticion correspondiente.
